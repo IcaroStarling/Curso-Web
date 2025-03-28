@@ -13,7 +13,10 @@ O curso aborda as principais tecnologias para desenvolvimento web moderno, inclu
 
 ## 🚀 Progresso
 
-- 235/696
+- Aulas: 235 / 696
+  
+- Sessões: 13 / 39
+  
 - [x] Sessão 1: Introduçao Curso Desenvolvimento Web
 - [x] Sessão 2: Configuração do Ambiente
 - [x] Sessão 3: Iniciando em Programação
@@ -53,3 +56,4 @@ O curso aborda as principais tecnologias para desenvolvimento web moderno, inclu
 - [ ] Sessão 37: Publicando uma Aplicação VueJS na Amazon
 - [ ] Sessão 38: Conclusão Curso Desenvolvimento Web
 - [ ] Sessão 39: Gulp - Versão 3 [LEGADO]
+##
