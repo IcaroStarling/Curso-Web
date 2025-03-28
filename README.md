@@ -12,4 +12,4 @@ O curso aborda as principais tecnologias para desenvolvimento web moderno, inclu
 - Boas práticas, padrões de projeto e automação com Gulp/Webpack
 
 ## 🚀 Progresso
-- 30%
+- 235/696
