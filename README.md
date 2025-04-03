@@ -53,3 +53,4 @@ O curso aborda as principais tecnologias para desenvolvimento web moderno, inclu
 - [ ] Sessão 37: Publicando uma Aplicação VueJS na Amazon
 - [ ] Sessão 38: Conclusão Curso Desenvolvimento Web
 - [ ] Sessão 39: Gulp - Versão 3 [LEGADO]
+##
