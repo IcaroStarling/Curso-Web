@@ -27,7 +27,7 @@ O curso aborda as principais tecnologias para desenvolvimento web moderno, inclu
 - [x] Sessão 11: ESNext
 - [x] Sessão 12: Conceitos sobre Web
 - [x] Sessão 13: HTML
-- [ ] Sessão 14: CSS
+- [X] Sessão 14: CSS
 - [ ] Sessão 15: Integrando HTML, CSS e JS
 - [ ] Sessão 16: Ajax
 - [ ] Sessão 17: Gulp
@@ -43,14 +43,13 @@ O curso aborda as principais tecnologias para desenvolvimento web moderno, inclu
 - [ ] Sessão 27: Projetos VueJS
 - [ ] Sessão 28: Projeto Calculadora (Vue)
 - [ ] Sessão 29: Projeto Monty Hall (Vue)
-- [ ] Sessão 30: Aplicação Desktop com JavaScript, Electron JS e Vue JS
-- [ ] Sessão 31: Angular 9
-- [ ] Sessão 32: Banco Relacional
-- [ ] Sessão 33: Banco Não Relacional
-- [ ] Sessão 34: Express
-- [ ] Sessão 35: Projeto Base de Conhecimento • Backend
-- [ ] Sessão 36: Projeto Base de Conhecimento • Frontend
-- [ ] Sessão 37: Publicando uma Aplicação VueJS na Amazon
-- [ ] Sessão 38: Conclusão Curso Desenvolvimento Web
-- [ ] Sessão 39: Gulp - Versão 3 [LEGADO]
+- [ ] Sessão 30: Angular 9
+- [ ] Sessão 31: Banco Relacional
+- [ ] Sessão 32: Banco Não Relacional
+- [ ] Sessão 33: Express
+- [ ] Sessão 34: Projeto Base de Conhecimento • Backend
+- [ ] Sessão 35: Projeto Base de Conhecimento • Frontend
+- [ ] Sessão 36: Publicando uma Aplicação VueJS na Amazon
+- [ ] Sessão 37: Conclusão Curso Desenvolvimento Web
+- [ ] Sessão 38: Gulp - Versão 3 [LEGADO]
 ##
