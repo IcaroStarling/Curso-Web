@@ -13,7 +13,7 @@ O curso aborda as principais tecnologias para desenvolvimento web moderno, inclu
 
 ## 🚀 Progresso
 
-- 248/696
+- 311/641
 - [x] Seção 1: Introduçao Curso Desenvolvimento Web
 - [x] Seção 2: Configuração do Ambiente
 - [x] Seção 3: Iniciando em Programação
@@ -28,8 +28,8 @@ O curso aborda as principais tecnologias para desenvolvimento web moderno, inclu
 - [x] Seção 12: Conceitos sobre Web
 - [x] Seção 13: HTML
 - [X] Seção 14: CSS
-- [ ] Seção 15: Integrando HTML, CSS e JS
-- [ ] Seção 16: Ajax
+- [X] Seção 15: Integrando HTML, CSS e JS
+- [X] Seção 16: Ajax
 - [ ] Seção 17: Gulp
 - [ ] Seção 18: Webpack
 - [ ] Seção 19: jQuery
@@ -43,13 +43,12 @@ O curso aborda as principais tecnologias para desenvolvimento web moderno, inclu
 - [ ] Seção 27: Projetos VueJS
 - [ ] Seção 28: Projeto Calculadora (Vue)
 - [ ] Seção 29: Projeto Monty Hall (Vue)
-- [ ] Seção 30: Angular 9
-- [ ] Seção 31: Banco Relacional
-- [ ] Seção 32: Banco Não Relacional
-- [ ] Seção 33: Express
-- [ ] Seção 34: Projeto Base de Conhecimento • Backend
-- [ ] Seção 35: Projeto Base de Conhecimento • Frontend
-- [ ] Seção 36: Publicando uma Aplicação VueJS na Amazon
-- [ ] Seção 37: Conclusão Curso Desenvolvimento Web
-- [ ] Seção 38: Gulp - Versão 3 [LEGADO]
+- [ ] Seção 30: Banco Relacional
+- [ ] Seção 31: Banco Não Relacional
+- [ ] Seção 32: Express
+- [ ] Seção 33: Projeto Base de Conhecimento • Backend
+- [ ] Seção 34: Projeto Base de Conhecimento • Frontend
+- [ ] Seção 35: Publicando uma Aplicação VueJS na Amazon
+- [ ] Seção 36: Conclusão Curso Desenvolvimento Web
+- [ ] Seção 37: Gulp - Versão 3 [LEGADO]
 ##
