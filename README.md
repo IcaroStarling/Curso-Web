@@ -13,7 +13,7 @@ O curso aborda as principais tecnologias para desenvolvimento web moderno, inclu
 
 ## 🚀 Progresso
 
-- 311/641
+- 347/641
 - [x] Seção 1: Introduçao Curso Desenvolvimento Web
 - [x] Seção 2: Configuração do Ambiente
 - [x] Seção 3: Iniciando em Programação
@@ -30,8 +30,8 @@ O curso aborda as principais tecnologias para desenvolvimento web moderno, inclu
 - [X] Seção 14: CSS
 - [X] Seção 15: Integrando HTML, CSS e JS
 - [X] Seção 16: Ajax
-- [ ] Seção 17: Gulp
-- [ ] Seção 18: Webpack
+- [X] Seção 17: Gulp
+- [X] Seção 18: Webpack
 - [ ] Seção 19: jQuery
 - [ ] Seção 20: Bootstrap
 - [ ] Seção 21: Projeto Galeria(Bootstrap/jQuery/Webpack)
