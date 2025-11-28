@@ -13,7 +13,7 @@ O curso aborda as principais tecnologias para desenvolvimento web moderno, inclu
 
 ## 🚀 Progresso
 
-- 347/641
+- 357/641
 - [x] Seção 1: Introduçao Curso Desenvolvimento Web
 - [x] Seção 2: Configuração do Ambiente
 - [x] Seção 3: Iniciando em Programação
